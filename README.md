@@ -1,1 +1,1 @@
-# snijesh.github.io
+# Bioinformatics Pipelines
